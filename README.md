@@ -67,12 +67,12 @@
 ## Github Stats  
 
 
-<div align="center">Language Status</div>
+### <div align="center">Language Status</div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&hide_border=true&layout=compact" align="center"  /></div>  
 
 
 
-<div align="center">Activity Status</div>
+### <div align="center">Activity Status</div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adeirjunior&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
