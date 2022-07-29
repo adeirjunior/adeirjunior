@@ -58,11 +58,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-</div>
+
 </td><td valign="top" width="33%">
 
 
-
+</div>
 </td></tr></table>  
 
 
