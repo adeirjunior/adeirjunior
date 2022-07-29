@@ -19,10 +19,10 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
-<div align="center">
+
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -38,7 +38,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -59,10 +59,6 @@
 </div>
 
 
-</td><td valign="top" width="33%">
-
-
-</div>
 </td></tr></table>  
 
 
