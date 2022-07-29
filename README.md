@@ -68,7 +68,7 @@
 
 
 
-<div align="center" style="margin-bottom: 1em;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&hide_border=true&layout=compact" align="center"  /></div>  
+<div align="center" style="margin-bottom: 12px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&hide_border=true&layout=compact" align="center"  /></div>  
 
 
 
