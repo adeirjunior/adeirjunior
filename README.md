@@ -3,7 +3,7 @@
 ### <div align="center">I'm a SC student and front-end freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Brackets](https://github.com/adeirjunior/brackets)  
+- 🔭 I’m currently working on [Madames](https://github.com/adeirjunior/madames)  
   
 
 - 🌱 I’m currently learning Deno and Rust  
