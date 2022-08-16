@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Deno and Rust  
   
 
-- 👯 I’m looking to collaborate on any Typescript projects🙄  
+- 👯 I’m looking to collaborate on any Typescript projects
   
 
 - ⚡ Fun fact: I spend 2 hours to find out that the error was a semicolon  
