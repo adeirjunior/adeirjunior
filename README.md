@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Adeir.me](https://github.com/adeirjunior/adeir.me)  
   
 
-- 🌱 I’m currently learning Deno and Rust  
+- 🌱 I’m currently learning Kotlin and Deno
   
 
 - 👯 I’m looking to collaborate on any Typescript projects
