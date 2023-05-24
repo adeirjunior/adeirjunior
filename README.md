@@ -3,7 +3,7 @@
 ### <div align="center">I'm a SC student and front-end freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Adeir.me](https://github.com/adeirjunior/adeir.me)  
+- 🔭 I’m currently working on [HMS (Hotel Management System)](https://github.com/adeirjunior/hms)  
   
 
 - 🌱 I’m currently learning Kotlin and Deno
