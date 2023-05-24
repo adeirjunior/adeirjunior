@@ -1,6 +1,6 @@
 <img src="header.png" />
 
-### <div align="center">I'm a SC student and front-end freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm a SC student and fullstack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [HMS (Hotel Management System)](https://github.com/adeirjunior/hms)  
