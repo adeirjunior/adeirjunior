@@ -2,7 +2,7 @@
 
 ### Faça um breve apresentação sobre você
 
-![](https://img.shields.io/static/v1?label=Overview&message=adeirjunior&color=f8efd4&style=for-the-badge&logo=GitHub)
+[![](https://img.shields.io/static/v1?label=Overview&message=adeirjunior&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/adeirjunior)
 
 Trabalhando na [**RolimDev**](https://github.com/rolimdev)
 
