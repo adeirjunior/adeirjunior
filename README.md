@@ -14,10 +14,10 @@ Eu sou desenvolvedor **Fullstack**.
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/rolimdev.png"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/rolimdev.png"/>](https://rolimdev.github.io/)
 
 **Estágiario em TI** \
-[**RolimDev**](https://rocketseat.com.br/) • Contract \
+[**RolimDev**](https://rolimdev.github.io/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
@@ -25,7 +25,7 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/114319842?v=4)"/>](https://livenet.vercel.app/)
 
 **Desenvolvedor Fullstack** \
-[**LiveNet**](https://www.spacex.com/) • Part-Time \
+[**LiveNet**](https://livenet.vercel.app/) • Part-Time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
