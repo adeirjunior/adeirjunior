@@ -1,4 +1,4 @@
-[<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&theme=dracula&hide_langs_below=1" />](https://github.com/Gurupreet)
+[<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&theme=dracula" />](https://github.com/adeirjunior)
 
 ### Faça um breve apresentação sobre você
 
