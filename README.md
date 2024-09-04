@@ -1,4 +1,4 @@
-[<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&theme=dracula" />](https://github.com/adeirjunior)
+[<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&theme=dark" />](https://github.com/adeirjunior)
 
 ### Uma breve apresentação sobre mim
 
