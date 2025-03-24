@@ -2,8 +2,6 @@
 
 ### Uma breve apresentação sobre mim
 
-[![](https://img.shields.io/static/v1?label=Overview&message=adeirjunior&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/adeirjunior)
-
 Fazendo graduação em ciência da computação.
 
 Eu sou desenvolvedor **Fullstack**.
