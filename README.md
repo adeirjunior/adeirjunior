@@ -12,30 +12,6 @@ Eu sou desenvolvedor **Fullstack**.
 
 <hr>
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/rolimdev.png"/>](https://github.com/RolimDev)
-
-**Estágiario em TI** \
-[**RolimDev**](https://github.com/RolimDev) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Pascal`, `PHP`, `MySQL`\
-Projetos em destaque: [RolimDev Website](https://github.com/RolimDev/RolimDev.github.io)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/114319842?v=4)"/>](https://github.com/livenetltd)
-
-**Desenvolvedor Fullstack** \
-[**LiveNet**](https://github.com/livenetltd) • Part-Time \
-Linguagens & Tecnologias: `Python`, `Node`, `Svelte`, `JavaScript`, `Typescript`, `Docker`,\
-Projetos em destaque: [LiveNet Dashboard](https://github.com/livenetltd/livenet)
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adeirjunior/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-<hr>
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adeirjunior&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adeirjunior/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adeirjunior&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adeirjunior/github-readme-stats#gh-light-mode-only)
 
