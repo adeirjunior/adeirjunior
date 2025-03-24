@@ -4,8 +4,6 @@
 
 [![](https://img.shields.io/static/v1?label=Overview&message=adeirjunior&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/adeirjunior)
 
-Trabalhando no setor de TI da prefeitura de Rolim de Moura ( [RolimDev](https://github.com/RolimDev) ).
-
 Fazendo graduação em ciência da computação.
 
 Eu sou desenvolvedor **Fullstack**.
