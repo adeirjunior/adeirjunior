@@ -1,5 +1,7 @@
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeirjunior&theme=dracula&hide_progress=true" />](https://github.com/adeirjunior)
 
+<hr>
+
 ### Uma breve apresentação sobre mim
 
 Fazendo graduação em ciência da computação.
